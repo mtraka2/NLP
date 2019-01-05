@@ -1,6 +1,1 @@
-This part is an open-ended programming assignment in which you are to implement a collection
-of N-gram language models on the brown corpus.1
-Randomly divide the dataset into three from nltk.corpus import brown
-parts: training, developing, and test data. 
-You should write every part of your code by yourself.
-Python 2 is the default language for this assignment
+
